@@ -174,6 +174,7 @@ PRODUCT_PACKAGES += \
     init.mmi.ramdump.rc \
     init.mmi.usb.rc \
     init.mmi.usb.sh \
+    init.persist_chown.sh \
     init.qcom.rc \
     init.moto.rc \
     init.power.rc \
